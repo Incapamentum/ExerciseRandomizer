@@ -53,6 +53,103 @@
                 "sets": 3,
                 "reps": 15
             }
+        ],
+        "TRX":
+        [
+            {
+                "name": "bicep curls",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "tricep extensions",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "y-flys",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "plank",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 30
+            },
+            {
+                "name": "high row",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "atomic push-ups",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "name": "face pulls",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "pike",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 12
+            }
+        ],
+        "Strength":
+        [
+            {
+                "name": "overhead dumbbell press",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "dumbbell lateral raises",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "arnold press",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "hammer curls",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "cross-body hammer curls",
+                "targets":
+                {},
+                "sets": 3,
+                "reps": 15
+            }
         ]
     }
 }
