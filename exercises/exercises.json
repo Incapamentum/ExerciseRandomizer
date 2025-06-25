@@ -1,0 +1,58 @@
+{
+    "Arms & Shoulders":
+    {
+        "Calisthenics":
+        [
+            {
+                "name": "push-ups w/ shoulder taps",
+                "targets":
+                {
+                    "primary": ["pectorals", "triceps"],
+                    "secondary": ["deltoids", "core"]
+                },
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "pike push-ups",
+                "targets":
+                {
+                    "primary": ["deltoids", "triceps"],
+                    "secondary": ["upper chest", "core", "traps"]
+                },
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "name": "dips",
+                "targets":
+                {
+                    "primary": ["triceps"],
+                    "secondary": ["chest", "shoulders"]
+                },
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "name": "plank w/ arm raise",
+                "targets":
+                {
+                    "primary": ["core"],
+                    "secondary": ["shoulders", "glutes", "lower back"]
+                },
+                "sets": 3,
+                "reps": 30
+            },
+            {
+                "name": "diamond push-ups",
+                "targets":
+                {
+                    "primary": ["triceps"],
+                    "secondary": ["inner chest", "front delts"]
+                },
+                "sets": 3,
+                "reps": 15
+            }
+        ]
+    }
+}
