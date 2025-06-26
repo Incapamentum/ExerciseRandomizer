@@ -59,56 +59,80 @@
             {
                 "name": "bicep curls",
                 "targets":
-                {},
+                {
+                    "primary": ["biceps brachi"],
+                    "secondary": ["forearms", "delts"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "tricep extensions",
                 "targets":
-                {},
+                {
+                    "primary": ["triceps"],
+                    "secondary": ["core", "shoulders"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "y-flys",
                 "targets":
-                {},
+                {
+                    "primary": ["rear delts", "traps", "rhomboids"],
+                    "secondary": ["rotator cuff", "core"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "plank",
                 "targets":
-                {},
+                {
+                    "primary": ["core"],
+                    "secondary": ["shoulders", "glutes", "quads"]
+                },
                 "sets": 3,
                 "reps": 30
             },
             {
                 "name": "high row",
                 "targets":
-                {},
+                {
+                    "primary": ["rhomboids", "traps", "rear delts"],
+                    "secondary": ["biceps", "core"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "atomic push-ups",
                 "targets":
-                {},
+                {
+                    "primary": ["chest", "triceps", "core"],
+                    "secondary": ["shouldrs", "hip flexors"]
+                },
                 "sets": 3,
                 "reps": 12
             },
             {
                 "name": "face pulls",
                 "targets":
-                {},
+                {
+                    "primary": ["rear delts", "traps", "rhomboids"],
+                    "secondary": ["rotator cuff"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "pike",
                 "targets":
-                {},
+                {
+                    "primary": ["core"],
+                    "secondary": ["shoulders", "hip flexors", "serratus anterior"]
+                },
                 "sets": 3,
                 "reps": 12
             }
@@ -118,35 +142,50 @@
             {
                 "name": "overhead dumbbell press",
                 "targets":
-                {},
+                {
+                    "primary": ["deltoids"],
+                    "secondary": ["triceps", "traps", "cores"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "dumbbell lateral raises",
                 "targets":
-                {},
+                {
+                    "primary": ["lateral deltoids"],
+                    "secondary": ["traps", "supraspinatus"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "arnold press",
                 "targets":
-                {},
+                {
+                    "primary": ["deltoids"],
+                    "secondary": ["triceps", "upper chest", "core"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "hammer curls",
                 "targets":
-                {},
+                {
+                    "primary": ["brachialis", "biceps", "brachioradialis"],
+                    "secondary": ["forearms"]
+                },
                 "sets": 3,
                 "reps": 15
             },
             {
                 "name": "cross-body hammer curls",
                 "targets":
-                {},
+                {
+                    "primary": ["brachialis", "biceps"],
+                    "secondary": ["forearms", "delts"]
+                },
                 "sets": 3,
                 "reps": 15
             }
